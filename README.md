@@ -6,4 +6,5 @@ A machine-learning based phishing detection system that analyzes website URLs an
 
 Clone the repository:git clone https://github.com/Athisha1718/Phishing-Detection-Using-ML.git
 cd Phishing-Detection-Using-ML
+
 Install dependencies:pip install -r requirements.txt and Train the model (optional if model.pkl already exists):python train.py and Run the API server:uvicorn api:app --reload
